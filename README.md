@@ -30,4 +30,4 @@ To jest moja strona.
 
 .
 
-[Link do nagłówka](#nagłówek)
+[Link do nagłówka](#-nagłówek-strony)
