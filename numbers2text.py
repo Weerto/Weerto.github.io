@@ -19,3 +19,4 @@ if liczba > 9:
         print(jednosci[(liczba % 10) - 1], end=' ')
 elif liczba < 10:
     print(jednosci[(liczba % 10) - 1], end=' ')
+    ###comment
