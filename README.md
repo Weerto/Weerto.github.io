@@ -34,4 +34,4 @@ Na serio bardzo fajne
 
 .
 
-[Link do nagłówka](https://github.com/Weerto/Weerto.github.io/blob/main/README.md#nag%C5%82%C3%B3wek-strony)
+[Link do nagłówka](#nagłówek-strony)
