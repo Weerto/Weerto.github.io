@@ -30,4 +30,4 @@ To jest moja strona.
 
 .
 
-[Link do nagłówka](#-nagłówek-strony)
+[Link do nagłówka](https://github.com/Weerto/Weerto.github.io/blob/main/README.md#nag%C5%82%C3%B3wek-strony)
