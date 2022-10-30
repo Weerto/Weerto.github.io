@@ -2,9 +2,13 @@
 
 To jest moja strona. 
 
+### Tabela TO DO
+
 |Do zrobienia|Zrobione|Zaplanowane|
 |:----------:|:------:|:---------:|
 |Skończyć zadanie|Utworzyć repo|Powtórzyć materiał|
+
+### Fajne zdjęcie
 
 ![a cat](IMG_0795.1.PNG)
 
@@ -26,4 +30,4 @@ To jest moja strona.
 
 .
 
-[Link do nagłówka](#)
+[Link do nagłówka](#nagłówek)
