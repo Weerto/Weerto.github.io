@@ -8,4 +8,19 @@ To jest moja strona.
 
 ![a cat](IMG_0795.1.PNG)
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 [Link do nagłówka](#Nagłówek)
