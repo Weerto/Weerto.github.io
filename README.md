@@ -8,7 +8,7 @@ To jest moja strona.
 
 ![a cat](IMG_0795.1.PNG)
 
-.
+[Link do zdjęcia](IMG_0795.1.PNG)
 
 .
 
@@ -24,4 +24,6 @@ To jest moja strona.
 
 .
 
-[Link do nagłówka](#Nagłówek)
+.
+
+[Link do nagłówka](#)
