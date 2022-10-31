@@ -12,7 +12,7 @@ Trzeba zrobić
 
 ### Fajne zdjęcie
 
-Na serio bardzo fajne.
+Na serio bardzo fajne
 
 ![a cat](IMG_0795.1.PNG)
 
