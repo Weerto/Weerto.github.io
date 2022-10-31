@@ -1,0 +1,1 @@
+print("Funkcja testowa")
