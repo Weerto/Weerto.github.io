@@ -12,4 +12,4 @@ jobs:
       - name: install
         run: |
           pip install -U pytest
-      - run: python3 -m pytest weerto.github.io/numbers2text.py
+      - run: python3 -m pytest Weerto.github.io/numbers2text.py
